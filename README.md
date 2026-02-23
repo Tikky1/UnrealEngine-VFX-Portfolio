@@ -9,21 +9,27 @@ This repository showcases my real-time visual effects developed in **Unreal Engi
 
 ---
 
-## 💥 Explosions & Impact
-> High-intensity explosive effects featuring **Firebottle**, **Bomb**, and **Scatterpot**. Developed with a focus on realistic velocity, radial forces, and optimized GPU particle emission.
+## 💥 Explosions & Combat
+> High-intensity explosive effects and projectile impacts. Developed with a focus on realistic velocity, radial forces, and optimized GPU particle emission.
 
-![Explosions Preview](img/explosions.gif)
+| Firebottle | Bomb | Scatter |
+| :---: | :---: | :---: |
+| ![Firebottle](gif/firebottle.gif) | ![Bomb](gif/bomb.gif) | ![Scatter](gif/scatter.gif) |
 
 ---
 
 ## 💨 Elemental Simulations
-> High-fidelity simulations including **Smoke**, **Flame**, and **Ripple** effects. Utilizing baked fluid data to achieve cinematic motion with minimal performance overhead.
+> High-fidelity simulations including fluid and thermal dynamics. Utilizing baked fluid data to achieve cinematic motion with minimal performance overhead.
 
-![Elemental Preview](img/elemental.gif)
+| Flame | Smoke | Ripple |
+| :---: | :---: | :---: |
+| ![Flame](gif/flame.gif) | ![Smoke](gif/smoke.gif) | ![Ripple](gif/ripple.gif) |
 
 ---
 
 ## 🍃 Atmospheric Environments
-> Immersive environmental systems featuring **Rain**, **Leaf** particles, and **Snow**. Designed with dynamic vector fields to ensure realistic interaction with the game world.
+> Immersive environmental systems designed with dynamic vector fields to ensure realistic interaction with the game world.
 
-![Atmospheric Preview](img/atmospheric.gif)
+| Rain | Snow | Leaf |
+| :---: | :---: | :---: |
+| ![Rain](gif/rain.gif) | ![Snow](gif/snow.gif) | ![Leaf](gif/leaf.gif) |
